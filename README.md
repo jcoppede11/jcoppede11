@@ -15,6 +15,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
