@@ -2,7 +2,7 @@
 
 - I'm a Systems Engineering student  
 - Passionate about fullstack web development  
-- Currently learning **React** and **React Native**  
+- Currently learning **AWS**  
 - Based in La Rioja, Argentina
 
 ---
@@ -16,6 +16,7 @@
 ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
